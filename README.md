@@ -1,4 +1,4 @@
-[![MasterHead](https://gifimage.net/wp-content/uploads/2017/10/discord-gif-emoji-3.gif)]
+![MasterHead](https://gifimage.net/wp-content/uploads/2017/10/discord-gif-emoji-3.gif)
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">If there is one thing I can say about myself, it is my extreme passion for electronics and embedded hardware design. Over the past two years, I have gained invaluable experience in PCB design, ARM and AVR microcontrollers, and low-level programming through project work and freelance missions.</h3>
 
