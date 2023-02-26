@@ -26,3 +26,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alichouchene&show_icons=true&theme=transparent&hide=issues)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alichouchene)](https://github.com/anuraghazra/github-readme-stats)
+
+
