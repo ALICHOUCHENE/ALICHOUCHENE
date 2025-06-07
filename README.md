@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **PCB design and low level programming**
 
-- 📫 How to reach me **alichouchene10@gmail.com**
-
 - ⚡ Fun fact **I think I'm Funny XD**
 
 <h3 align="left">Connect with me:</h3>
